@@ -2,7 +2,7 @@ package com.naotemkotlin
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-//Comentário de alteração v.11.
+//Comentário de alteração para Github
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
