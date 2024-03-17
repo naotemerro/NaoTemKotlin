@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">NaoTemKotlin</string>
+    <string name="heelflip">heelflip !</string>
 </resources>
